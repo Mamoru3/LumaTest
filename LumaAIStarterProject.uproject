@@ -13,8 +13,8 @@
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
-				"Linux",
-				"Mac"
+				"Mac",
+				"Linux"
 			]
 		},
 		{
