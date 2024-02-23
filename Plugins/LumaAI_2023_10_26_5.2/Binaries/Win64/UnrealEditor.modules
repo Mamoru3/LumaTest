@@ -1,0 +1,8 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"LumaEditor": "UnrealEditor-LumaEditor.dll",
+		"LumaRuntime": "UnrealEditor-LumaRuntime.dll"
+	}
+}
